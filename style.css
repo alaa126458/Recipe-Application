@@ -1,0 +1,55 @@
+/*navbar*/
+nav{
+    margin-bottom: -40px;
+    margin-top: 5px;
+}
+
+a{
+    padding-left: 200px;
+    margin-top: px;
+    margin-bottom: 30px;
+    text-decoration: none;
+}
+/*home*/
+.card-body{
+    padding-left: 20px;
+    padding-top: 180px;
+    margin-left: 110px;
+    margin-bottom: 150px;
+    
+}
+.row{
+    background-color: rgb(177, 174, 174);
+}
+/*browser*/
+
+.text{
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.card-img-top{
+    height: 500px;
+}
+svg{
+    margin-left: 10px;
+}
+.card{
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+footer{
+    text-align: center;
+    margin-top: 40px;
+}
+.card a{
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0,0.1);
+
+}
+input{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+input[type=radio]#specifyColor {
+    accent-color: #f2ea02;
+    border: 0;
+    
+}
